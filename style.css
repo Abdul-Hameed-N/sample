@@ -1,0 +1,265 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+/* ----------------------------------------First--------------------------------------------------- */
+#head{
+
+    background-image: url('bannerimage.jpg');
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 100%;
+}
+img{
+    vertical-align: middle;
+    }
+
+#name{
+    border-radius: 5px;
+    width: 235px;
+    padding: 5px;
+}
+#email{
+    border-radius: 5px;
+    width: 235px;
+    padding: 5px;
+}
+
+#m-num{
+    border-radius: 5px;
+    width: 235px;
+    padding: 5px;
+}
+
+#exp{
+    border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+   
+}
+#pgpm{
+    border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+}
+#time{
+    border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+}
+#form{
+     
+     position: relative;
+     left: 68%;
+     top: -80px;
+     width:fit-content;
+     padding: 40px 20px 20px 20px;
+     border-radius: 10px;
+     background-color: rgb(224, 56, 56);
+
+
+}
+
+#download{
+border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+}
+
+#checkbox{
+ 
+color: white;
+text-align: justify;
+}
+
+#chennai-business-school{
+   background-color: rgb(224, 56, 56);
+   padding: 12px;
+   color: white;
+   margin-bottom: 5px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   position: relative;
+   top: -60px;
+
+}
+
+
+/* ----------------------------------------Second--------------------------------------------------- */
+
+#Temp1{
+
+    width: 100%;
+
+    }
+    .temp-img{
+        width: 100%;
+    }
+    .clear{
+        clear: both;
+    }
+
+/* ----------------------------------------Third--------------------------------------------------- */
+
+#find{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    
+    top: -50px;
+
+
+ 
+}
+   
+
+  #img-2{ 
+    background-image: url('img-2.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 50px;
+ 
+ } 
+   
+
+
+#p1{
+    position: relative;
+    
+    left: 800px;
+    top: 10px;
+    font-family:Arial, Helvetica, sans-serif ;
+    
+
+   
+}
+#p2{
+    
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif ;
+    top: -25px;
+    left: 80px;
+    
+}
+    
+#p3{
+    position: relative;
+    
+    position: relative;
+    left: 800px;
+    top: -30px;
+    
+
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
+#p4{
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif ;
+    top: -40px;
+    left: 80px;
+    
+}
+#p5{
+    position: relative;
+    left: 800px;
+    top: -37px;
+    
+
+    font-family:Arial, Helvetica, sans-serif ;
+    
+    
+}
+#p6{
+    position: relative;
+    top: -80px;
+    left: 80px;
+    
+    font-family:Arial, Helvetica, sans-serif ;
+   
+    
+}
+
+/* ----------------------------------------Fourth--------------------------------------------------- */
+
+#bank{
+    background-color: rgb(224, 56, 56);
+    color: white;
+    
+}
+
+#ENSURE{
+    background-color: rgb(224, 56, 56);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: white;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#axis{
+    width: 33.33%;
+    float: left;
+    text-align: right;
+    
+}
+
+#credenc{
+    width: 33.33%;
+    float: right;
+    text-align: left;
+    
+    
+}
+
+#hdfc{
+    width: 33.33%;
+    margin: 0 auto;
+    
+    text-align:center;
+    padding-top: 20px;
+
+    
+   
+}
+
+/*---------------------------------------- Fifth --------------------------------------------------- --> */
+#testimonial1{
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align:center;
+    color: rgb(224, 56, 56);
+
+}
+#RECRUITERS{
+
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align:center;
+    font-size: 20px;
+}
+.column{
+    float: left;
+    width:10%;
+    padding: 20px;
+    
+    
+}
+
+.row{
+    
+    position: relative;
+    left: 110px;
+    
+  
+}
+#copyright{
+    
+    text-align: center;
+    color: white;
+    background-color: rgb(116, 109, 109);
+    font-family:Arial, Helvetica, sans-serif ;
+    padding:15px;
+}
